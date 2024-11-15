@@ -4,7 +4,7 @@ Naredite razred "Oseba", ki vsebuje naslednje vrednosti:
 - starost
 - denar
 
-1. Inicializirajte 3 spremenljivke z razredom.
+1. Inicializirajte tri spremenljivke z razredom.
 
 2. Spremenite vrednost ene spremenljivke (DIREKTNO -> spr.ime = "Matej").
 

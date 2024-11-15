@@ -27,7 +27,7 @@ Kaj pa če bi radi dobili input od uporabnika, ki je število, da ga lahko pomno
 V takem primeru pa ne gre samo z input(), saj vse kar je dobljeno tako, je zgolj string/text.
 Zato je treba podatek pretvorit v drugi tip.
 
-To se naredi tako, da se napiše kratica vrste tipa ki ga želimo, dodamo oklepaje, in znotraj oklepajev damo naš podatek ki ga želimo pretrovit.
+To se naredi tako, da se napiše kratica vrste tipa ki ga želimo, dodamo oklepaje, in znotraj oklepajev damo naš podatek ki ga želimo pretvorit.
 Takšnemu pretvarjanju se tudi reče Casting.
 
 Imamo sledeče:
@@ -51,11 +51,11 @@ print(bool(1)) # True
 Zdaj pa združimo znanje inputa in castinga, da ustvarimo program, ki sprejme število, ter ga množi z 2:
 """
 
-vnos = input("Vnesi stevilo: ") # Dobimo vnos stevilo od uporabnika
+vnos = input("Vnesi število: ") # Dobimo vnos število od uporabnika
 
-pretvorba = int(vnos) # Pretvorimo vnos v stevilo
+pretvorba = int(vnos) # Pretvorimo vnos v število
 
-print(pretvorba * 2) # izpisemo nas pretvorjen vnos podvojen z 2
+print(pretvorba * 2) # izpišemo nas pretvorjen vnos podvojen z 2
 
 
 
