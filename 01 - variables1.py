@@ -1,9 +1,9 @@
 """
-Z spremenljivkami se bomo obadali vbistvu konstantno, saj so del vsakega projekta da se podatki lahko shranjujejo, zamenjujejo, itd.
+Z spremenljivkami se bomo obadali v bistvu konstantno, saj so del vsakega projekta da se podatki lahko shranjujejo, zamenjujejo, itd.
 
 Imamo naslednje splošne tipe podatkov:
 
-- String                / str: "Tekst", 'Še več teksta', '2',... (vedno se začne z nekakšnimi narekovaji in je vse znotraj obravnavano kot znak ali skupek znakov)
+- String                / str: "Tekst", 'Še več teksta', '2', ... (vedno se začne z nekakšnimi narekovaji in je vse znotraj obravnavano kot znak ali skupek znakov)
 - Integer               / int: 1, 50, 21684, 1212 (cela števila)
 - Floating point number / float: 3.14, 1.1, 1.00005 (decimalna števila)
 - Boolean               / bool: True, False (ja ali ne. Drugega ni. Pomembne so velike črke. To pomeni da ne obstaja true ali false, ampak samo True in False)

@@ -8,9 +8,9 @@ Sintaksa za povpraševanje/logiko je naslednja:
 
 spr1 = True # določimo spremenljivko kero bomo obravnavali
 
-if spr1: # če je spr1 True, se izvede koda znotraj if
+if spr1: # Če je spr1 True, se izvede koda znotraj if
     print("spr1 je True!")
-else:    # v primeru da je spr1 False, se ignorira zgornje in se izvede spodnja kofa znotraj esle
+else:    # v primeru, da je spr1 False, se ignorira zgornje in se izvede spodnja koda znotraj else
     print("spr1 je False!")
 
 """
@@ -20,13 +20,13 @@ Seveda logika ni samo za sam Boolean. Lahko uporabljamo za primerjanje:
 spr1 = 200
 spr2 = 500
 
-if spr1 == spr2: # Primerjamo spr1 in spr2 z sintakso ==
-    print("Stevili sta enaki")
+if spr1 == spr2: # Primerjamo spr1 in spr2 s sintakso ==
+    print("Števili sta enaki")
 else:
-    print("Stevili nista enaki")
+    print("Števili nista enaki")
 
 """
-V zgornjem primeru smo primerjali dve stevili z posebno sintakso ==.
+V zgornjem primeru smo primerjali dve števili z posebno sintakso ==.
 Katere še obstajajo?
 
 == -> Vrne True če sta leva in desna spremenljivka enaki in False če nista.
@@ -72,14 +72,14 @@ if in else nista edina. Povpraševanje lahko ima več pogojev. To naredimo z:
 spr1 = 150
 
 if spr1 < 200 and spr1> 100:
-    print("Stevilo je manjse od 200 in vecje od 100")
+    print("število je manjše od 200 in večje od 100")
 
 # Zgornji primer lahko tudi poenostavimo tako:
 if 200 > spr1 > 100:
-    print("Stevilo je manjse od 200 in vecje od 100")
+    print("število je manjše od 200 in večje od 100")
 
 """
-And in or lahko uporabimo kolikokrat zelimo.
+And in or lahko uporabimo kolikokrat želimo.
 Zdaj pa si še poglejmo več izidov povpraševanja.
 
 Tukaj pa še dodamo zraven sintakso elif
