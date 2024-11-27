@@ -14,7 +14,7 @@ Naredite razred "Oseba", ki vsebuje naslednje vrednosti:
 4. Razredu dodajte funkcijo, ki izpiše "<ime> je star/a več kot 21" ali pa, da ni. To se zve z atributom starost vašega razreda.
 
 5. Razredu podrite __str__ funkcijo, ter jo napišite tako, da izpiše naslednje:
-    <ime>, je star/a <starost>, ima <denar>€ in ima <list.__len__()> prijateljev
+    <ime>, je star/a <starost>, ima <denar>€ in ima <list.__len__()> prijatelja/ev
 
     P.S:
         - Če napišemo ime lista, ter dodamo zraven .__len__(), nam python vrne število elementov v listu.
