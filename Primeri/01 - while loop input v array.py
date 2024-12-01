@@ -7,7 +7,7 @@ moj_list = []
 while True: # while True, deluje neskončno in je lahko samo prekinjen s sintakso/besedo "break"
     vnos = input("Vnos: ") # Zahtevamo vnos uporabnika.
     if vnos == "STOP": # Če je naš vnos enak "STOP" se program konča
-        break
+        break # beseda "break", konča katerokoli funkcijo ali zanko znotraj, katere se pokliče
     moj_list.append(vnos) # Z .append, dodamo vrednost v list
     print(moj_list) # Po vsakem vnosu izpišemo list, da vidimo vse vrednosti, ki so bile dodane do zdaj.
 
