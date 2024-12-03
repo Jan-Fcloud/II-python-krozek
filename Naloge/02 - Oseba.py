@@ -41,7 +41,7 @@ class Oseba:
             print(f"{self.ime} ni star/a več kot 21.")
 
     def __str__(self):
-        return f"{self.ime}, je star/a {str(self.starost)}, ima {str(self.denar)}€ in ima {str(self.prijatelji_list.__len__())} prijatelja/ev."
+        return f"{self.ime}, je star/a {self.starost}, ima {self.denar}€ in ima {self.prijatelji_list.__len__()} prijatelja/ev."
 
 Ime = input("Vpiši ime: ")
 Starost = input("Vpiši starost: ")
