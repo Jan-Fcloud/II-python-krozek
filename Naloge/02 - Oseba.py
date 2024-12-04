@@ -24,8 +24,8 @@ Naredite razred "Oseba", ki vsebuje naslednje vrednosti:
 class Oseba: # Ustvarimo razred z imenom Oseba
     def __init__(self, ime, starost, denar): # __init__ funkcija, se zažene vedno ob kreiranju funkcije (npr: oseba = Oseba("Miha", 23, 2000) -> po tem, se avtomatsko kliče __init__)
         self.ime = ime # razred ima spremenljivko "ime"
-        self.starost = int(starost) # razred ima spremenljivko "starost", ki se pretvori v integer/stevilko
-        self.denar = int(denar) # razred ima spremenljivko "denar", ki se pretvori v integer/stevilko
+        self.starost = int(starost) # razred ima spremenljivko "starost", ki se pretvori v integer/številko
+        self.denar = int(denar) # razred ima spremenljivko "denar", ki se pretvori v integer/številko
         self.prijatelji_list = [] # razred ima spremenljivko "prijatelji_list", ki je prazen list
 
     def dodaj_prijatelja(self, prijatelj): # Ustvarimo svojo poljubno funkcijo znotraj razreda, z imenom "dodaj_prijatelja", ki od nas sprejme eno vrednost, ki se shrani pod "prijatelj". Vsaka funkcija znotraj razreda MORA imeti kot prvi parameter "self".
