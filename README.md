@@ -14,7 +14,10 @@ Geslo dobite pri krožku
 
 ## Tekmovanja:
 
-ACM Tekmovanje:
+ACM Tekmovanja:
+https://rtk.ijs.si/
+
+ACM Tekmovanje - Reseno:
 https://github.com/Jan-Fcloud/atm-tekmovanja-programiranja
 
 ZOTKS:
