@@ -24,4 +24,3 @@ https://github.com/Jan-Fcloud/atm-tekmovanja-programiranja
 
 ZOTKS:
 https://zotks.si/tekmovanje/programiranje-za-srednje-sole/
----
