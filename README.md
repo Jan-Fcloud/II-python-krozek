@@ -17,8 +17,10 @@ Geslo dobite pri krožku
 ACM Tekmovanja:
 https://rtk.ijs.si/
 
-ACM Tekmovanje - Reseno:
+ACM Tekmovanje - Rešeno:
 https://github.com/Jan-Fcloud/atm-tekmovanja-programiranja
+
+☝️ (če si kdo želi imeti kakšno nalogo rešeno, mi naj prosim javi!)
 
 ZOTKS:
 https://zotks.si/tekmovanje/programiranje-za-srednje-sole/
