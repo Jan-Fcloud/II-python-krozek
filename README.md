@@ -10,4 +10,13 @@ Vprašalnik za 27.11:
 https://freeonlinesurveys.com/s/cqBDljXW
 
 Geslo dobite pri krožku
+
+
+## Tekmovanja:
+
+ACM Tekmovanje:
+https://github.com/Jan-Fcloud/atm-tekmovanja-programiranja
+
+ZOTKS:
+https://zotks.si/tekmovanje/programiranje-za-srednje-sole/
 ---
