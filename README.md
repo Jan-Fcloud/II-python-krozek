@@ -6,11 +6,6 @@ Zgoraj imate datoteke, ki sem jih tudi oštevilčil po vrsti, da ne skačete sem
 Če razumete 01 -, ste pripravljeni za 02 -, itd ...
 
 ---
-Vprašalnik za 27.11:
-https://freeonlinesurveys.com/s/cqBDljXW
-
-Geslo dobite pri krožku
-
 
 ## Tekmovanja:
 
