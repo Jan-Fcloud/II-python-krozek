@@ -35,7 +35,7 @@ while True:
         if knjiga[i] is None: # Če je vrednost "KONEC", se iz loopa izlomi.
             break
 
-    if None in knjiga: # Če je vrednost "KONEC" v listu "knjiga", se iz loopa izlomi.
+    if None in knjiga: # Če je vrednost None v listu "knjiga", se iz loopa izlomi.
         break
 
     knjiga = Knjiga(knjiga[0], knjiga[1], knjiga[2]) # Ustvarimo novo kopijo razreda "Knjiga" z vrednostmi, ki smo jih podali znotraj loopa.

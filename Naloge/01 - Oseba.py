@@ -41,13 +41,13 @@ print(oseba3)
 
 oseba1.ime = "Spremenjeno" # Direktno spremenimo ime za oseba1
 
-print()
+print() # Prazni print je samo za lepši izpis v konzoli.
 print("Po spremembah:")
 print(oseba1)
 print(oseba2)
 print(oseba3)
 
-print()
+print() # Prazni print je samo za lepši izpis v konzoli.
 print("Vec kot sto denarja?")
 print(oseba1.preveriDenar()) # Pokličemo funkcijo, ki preveri denar za oseba1
 print(oseba2.preveriDenar()) # Pokličemo funkcijo, ki preveri denar za oseba2
