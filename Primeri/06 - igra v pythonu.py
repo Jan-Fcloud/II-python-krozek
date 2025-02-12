@@ -22,7 +22,7 @@ polje = [[" " for _ in range(3)] for _ in range(3)] # Polje vsebuje 3 vrstice in
 
 def izpisi_polje():
     """Funkcija za izpis igralnega polja"""
-    print("\n     0   1   2") # Presledki v VSEH izpisih, so namnjeni preglednosti.
+    print("\n     0   1   2") # Presledki v VSEH izpisih, so namenjeni preglednosti.
     print("   +---+---+---+")
     for i in range(3):
         print(f" {i} | {polje[i][0]} | {polje[i][1]} | {polje[i][2]} |") # Izpis polja, kjer je i vrstica, polje[i][0] je prvi stolpec, polje[i][1] je drugi stolpec, polje[i][2] je tretji stolpec.
